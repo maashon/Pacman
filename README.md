@@ -17,3 +17,15 @@ And here is the l;earning curve of the agent in all the episodes:
 
 
 ![141 high score 3 layers](https://user-images.githubusercontent.com/72257286/143134732-bbf6ca30-4aad-41ad-97c9-a7e667875e25.png)
+
+The supervisor of this course was Dr.ANDRÁS LŐRINCZ
+
+https://www.elte.hu/en/content/andras-lorincz-is-elte-s-innovative-researcher-for-2019.t.1138
+
+https://www.linkedin.com/in/andras-lorincz-49648415/?originalSubdomain=hu
+
+By:
+
+Parsa Pourzargham-Spring 2021
+
+Eotvos Lorand University-Budapest-2021
